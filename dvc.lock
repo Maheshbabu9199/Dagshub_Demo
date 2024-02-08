@@ -3,7 +3,7 @@ stages:
   prepare:
     cmd: python dvc_demo_file.py
     deps:
-    - path: Housing.csv
+    - path: data\Housing.csv
       hash: md5
       md5: d28e552b0f3e1306c27df75753872d20
       size: 29770
