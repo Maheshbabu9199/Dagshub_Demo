@@ -5,8 +5,8 @@ stages:
     deps:
     - path: Housing.csv
       hash: md5
-      md5: 34d6af6d0994e8bdb86b2dba671ea0f6
-      size: 29819
+      md5: 3e92e4c6d7098935c618d11c6c040cc1
+      size: 29812
     - path: dvc_demo_file.py
       hash: md5
       md5: a3775abe59e72d9b96a17329d31469d9
