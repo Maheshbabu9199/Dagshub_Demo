@@ -2,5 +2,5 @@ stages:
   prepare:
     cmd: python dvc_demo_file.py
     deps:
-    - Housing.csv
+    - data\Housing.csv
     - dvc_demo_file.py
