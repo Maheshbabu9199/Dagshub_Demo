@@ -1,0 +1,13 @@
+schema: '2.0'
+stages:
+  prepare:
+    cmd: python dvc_demo_file.py
+    deps:
+    - path: Housing.csv
+      hash: md5
+      md5: 34d6af6d0994e8bdb86b2dba671ea0f6
+      size: 29819
+    - path: dvc_demo_file.py
+      hash: md5
+      md5: a3775abe59e72d9b96a17329d31469d9
+      size: 933
