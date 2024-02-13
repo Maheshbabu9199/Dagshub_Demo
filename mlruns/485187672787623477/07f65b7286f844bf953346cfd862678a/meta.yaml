@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MAHESH/OneDrive/Desktop/DVC_Demo/mlruns/485187672787623477/07f65b7286f844bf953346cfd862678a/artifacts
+end_time: 1707805680492
+entry_point_name: ''
+experiment_id: '485187672787623477'
+lifecycle_stage: active
+run_id: 07f65b7286f844bf953346cfd862678a
+run_name: enchanting-conch-803
+run_uuid: 07f65b7286f844bf953346cfd862678a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707805671097
+status: 3
+tags: []
+user_id: MAHESH

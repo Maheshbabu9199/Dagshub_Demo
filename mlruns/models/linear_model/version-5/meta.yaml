@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1707808049489
+current_stage: None
+description: null
+last_updated_timestamp: 1707808049489
+name: linear_model
+run_id: 1854fc72675f4defa5789422ced732af
+run_link: null
+source: file:///C:/Users/MAHESH/OneDrive/Desktop/DVC_Demo/mlruns/485187672787623477/1854fc72675f4defa5789422ced732af/artifacts/models
+status: READY
+status_message: null
+storage_location: file:///C:/Users/MAHESH/OneDrive/Desktop/DVC_Demo/mlruns/485187672787623477/1854fc72675f4defa5789422ced732af/artifacts/models
+user_id: null
+version: 5

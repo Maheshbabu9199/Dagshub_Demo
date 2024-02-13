@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MAHESH/OneDrive/Desktop/DVC_Demo/mlruns/485187672787623477/57d44c1798e944a9a0eefa6f349191e2/artifacts
+end_time: 1707805244300
+entry_point_name: ''
+experiment_id: '485187672787623477'
+lifecycle_stage: active
+run_id: 57d44c1798e944a9a0eefa6f349191e2
+run_name: nimble-cat-794
+run_uuid: 57d44c1798e944a9a0eefa6f349191e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707805244202
+status: 4
+tags: []
+user_id: MAHESH
