@@ -1,0 +1,15 @@
+digest: 0c54ec2c
+name: dataset
+profile: '{"num_rows": 324, "num_elements": 3888}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "area", "required": true},
+  {"type": "double", "name": "bedrooms", "required": true}, {"type": "double", "name":
+  "bathrooms", "required": true}, {"type": "double", "name": "stories", "required":
+  true}, {"type": "double", "name": "mainroad", "required": true}, {"type": "double",
+  "name": "guestroom", "required": true}, {"type": "double", "name": "basement", "required":
+  true}, {"type": "double", "name": "hotwaterheating", "required": true}, {"type":
+  "double", "name": "airconditioning", "required": true}, {"type": "double", "name":
+  "parking", "required": true}, {"type": "double", "name": "prefarea", "required":
+  true}, {"type": "double", "name": "furnishingstatus", "required": true}]}'
+source: '{"tags": {"mlflow.user": "MAHESH", "mlflow.source.name": ".\\dvc_demo_file.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "22a11e81c9af7f12c6298db30fb6824bc7c380d3"}}'
+source_type: code

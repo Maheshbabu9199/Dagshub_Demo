@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MAHESH/OneDrive/Desktop/DVC_Demo/mlruns/485187672787623477/a6d86f7b17364466b1143cddb128b9cf/artifacts
+end_time: 1707807942843
+entry_point_name: ''
+experiment_id: '485187672787623477'
+lifecycle_stage: active
+run_id: a6d86f7b17364466b1143cddb128b9cf
+run_name: third_run
+run_uuid: a6d86f7b17364466b1143cddb128b9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707807935404
+status: 3
+tags: []
+user_id: MAHESH

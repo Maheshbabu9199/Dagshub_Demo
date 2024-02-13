@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MAHESH/OneDrive/Desktop/DVC_Demo/mlruns/485187672787623477/bec413a1b6224629b330a1da12e8582b/artifacts
+end_time: 1707805421029
+entry_point_name: ''
+experiment_id: '485187672787623477'
+lifecycle_stage: active
+run_id: bec413a1b6224629b330a1da12e8582b
+run_name: nebulous-hare-873
+run_uuid: bec413a1b6224629b330a1da12e8582b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707805420806
+status: 4
+tags: []
+user_id: MAHESH
